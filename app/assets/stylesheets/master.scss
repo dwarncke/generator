@@ -79,4 +79,14 @@ h2 {
   text-decoration: none;
 }
 
+@media (max-width: 750px) {
+  .footer-blurb {
+    text-align: left;
+  }
+}
+
+.modal {
+   font-family: "Montserrat", sans-serif;
+}
+
 
