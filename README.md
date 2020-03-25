@@ -10,5 +10,9 @@ This Application is a random quote generator. It allows users to add quotes to t
 - Bootstrap
 - Simple_form gem
 
+# Deployment
+
+Heroku App
+
 
 
